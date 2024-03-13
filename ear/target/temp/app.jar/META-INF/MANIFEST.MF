@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: Maven EJB Plugin 3.2.1
+Build-Jdk-Spec: 11
+Class-Path: lib/jakarta.jms-jakarta.jms-api-3.1.0.jar
+
